@@ -1,3 +1,5 @@
+https://zhuanlan.zhihu.com/FrontendMagazine/20522487
+
 # webpack-react-kit
 
 another simple webpack react starter kit to help you get to know webpack better
